@@ -1,0 +1,2 @@
+# Easy-web-server-in-Debian-10-CLI-apache2-nginx-and-MongoDB
+I setup a bare webserver capable of handling massive loads (Thanks to apache2). I setup this server on a Debian 10 Esxi Virtual Machine running on my HP dl380 G8 Home lab I give the machine a total of 4gb of ram, 80gb of SAS drive storage with LSI virtual SAS controller also planning to try out/experiment installing Hestia CP, will it be capable of satisfying my command line obsession?  
